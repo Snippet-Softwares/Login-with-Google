@@ -1,6 +1,6 @@
 Author: Snippet Software & IoT Solutions
-Author URL: https://www.snippet.io.ke
-Author Email: enquiries@snipept.io.ke
+Author URL: https://www.snippet.africa
+Author Email: enquiries@snipept.africa
 
 ============ Introduction ============
 This project helps web developers to implement the user registration with Google account using PHP at their website project. Also the user information would be stored at the MySQL database.
