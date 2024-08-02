@@ -1,10 +1,10 @@
 <?php
 class User {
 	private $dbHost     = "localhost";
-    private $dbUsername = "root";
-    private $dbPassword = "";
-    private $dbName     = "codexworld";
-    private $userTbl    = 'users';
+    private $dbUsername = "db_user";
+    private $dbPassword = "db_password";
+    private $dbName     = "db_name";
+    private $userTbl    = 'db_table';
 	
 	function __construct(){
         if(!isset($this->db)){
