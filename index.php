@@ -37,7 +37,7 @@ if ($gClient->getAccessToken()) {
 	//Storing user data into session
 	$_SESSION['userData'] = $userData;
 	
-	//Render facebook profile data
+	//Render google profile data
     if(!empty($userData)){
         $output = '<h1>Google+ Profile Details </h1>';
         $output .= '<img src="'.$userData['picture'].'" width="300" height="220">';
